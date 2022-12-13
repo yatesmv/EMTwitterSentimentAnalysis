@@ -7,4 +7,17 @@ There are 4 scripts involved:
         3. Updated Sentiment Analysis
         4. Sentiment Analysis Comparison
 
+This script utilizes VADER, which was created by C.J. hutto and E.E. Gilbert (ref. 2), to determine the sentiment behind reactions of Elon Msuk's recent takeover of Twitter.
+
+References
+1. George Mason Federated Login Service. (2022). Gmu.edu. https://ieeexplore-ieee-org.mutex.gmu.edu/document/9121057
+2. Hutto, C. J., & Gilbert, E. E. (2014). VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). https://ojs.aaai.org/index.php/ICWSM/article/view/14550/14399, https://github.com/cjhutto/vaderSentiment
+3. JustAnotherArchivist. Snscrape. (2022). GitHub. Retrieved November 30, 2022, from https://github.com/JustAnotherArchivist/snscrape  
+4. Kharde, V., & Sonawane, S. (2016). Sentiment Analysis of Twitter Data: A Survey of Techniques. International Journal of Computer Applications, 139(11), 975–8887. https://arxiv.org/pdf/1601.06971.pdf 
+5. Mesevage. (2021, May 24). What Is Data Preprocessing & What Are The Steps Involved? MonkeyLearn Blog. Retrieved December 5, 2022, from https://monkeylearn.com/blog/data-preprocessing/
+6. Orbiteers. (2019, March 21). When not to Lemmatize Remove Stop Words Text Preprocessing. ModelOp. https://www.modelop.com/blog/when-not-to-lemmatize-or-remove-stop-words-in-text-preprocessing/ 
+7. OSF. (2022). Sentiment analysis of twitter data. Https://Osf.io; Open Science Framework. https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwji8u6T3Nn7AhWOcGwGHaONA7UQFnoECAwQAQ&url=https%3A%2F%2Fosf.io%2F6xc4y%2Fdownload&usg=AOvVaw3X7RGlGzASNPuPEzxyR7y6 
+8. Patel, R., & Passi, K. (2020). Sentiment Analysis on Twitter Data of World Cup Soccer Tournament Using Machine Learning. IoT, 1(2), 218–239. https://doi.org/10.3390/iot1020014 
+9. Srinidhi, S. (2021, December 12). Understanding Word N-grams and N-gram Probability in Natural Language Processing. Medium. https://towardsdatascience.com/understanding-word-n-grams-and-n-gram-probability-in-natural-language-processing-9d9eef0fa058
+ 
 
