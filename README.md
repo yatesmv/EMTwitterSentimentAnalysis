@@ -13,11 +13,11 @@ Each of the five scripts used in this analysis can we run standalone as long as 
 
 All of these scripts were made in Python, using either Jupyter Lab or Jupyter Notebook. 
 
-The script to scrape Twitter requires only:
+The script to scrape Twitter ('TweetScraping.ipynb') requires only:
 * Snscrape 
 * pandas
 
-The following packages are required for the analysis files:
+The following packages are required for the analysis files ('Exploratory Analysis v3.ipynb', 'Updated Sentiment Analysis.ipynb', and 'Baseline Sentiment Analysis.ipynb'):
 * csv
 * SpaCy
 * NLTK
@@ -25,7 +25,7 @@ The following packages are required for the analysis files:
 * string
 * re
 
-And the sentiment comparison script also requires a few other packages for visuals:
+And the sentiment comparison ('SentimentComparison.ipynb') script also requires a few other packages for visuals:
 * matplotlib
 * math
 * statistics
@@ -46,7 +46,7 @@ If you don't have Jupyter Notebook or Jupyter Lab (they're interchangeable for t
 pip install jupyterlab
 ```
 
-or for JUpyter Notebook:
+or for Jupyter Notebook:
 
 ```
 pip install notebook
