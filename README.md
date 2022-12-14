@@ -74,9 +74,9 @@ pip install nltk
 
 ## Authors
 
-* **Meris Yates** - *Exploratory Analysis* 
-* **Meris Yates** - *Sentiment Analysis* - [yatesmv](https://github.com/yatesmv)
-* **Mostafa Omidi** - *Everything Else* - 
+* **Jaeho Shin** 
+* **Meris Yates** - [yatesmv](https://github.com/yatesmv)
+* **Mostafa Omidi** 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
