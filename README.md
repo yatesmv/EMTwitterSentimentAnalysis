@@ -17,7 +17,7 @@ The script to scrape Twitter ('TweetScraping.ipynb') requires only:
 * Snscrape 
 * pandas
 
-The following packages are required for the analysis files ('Exploratory Analysis v3.ipynb', 'Updated Sentiment Analysis.ipynb', and 'Baseline Sentiment Analysis.ipynb'):
+The following packages are required for the analysis files ('Exploratory Analysis v3.ipynb', 'Updated Sentiment Analysis.ipynb', 'Baseline Sentiment Analysis.ipynb', and 'SentimentComparison.ipynb'):
 * csv
 * SpaCy
 * NLTK
