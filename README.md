@@ -1,6 +1,7 @@
 # Sentiment Analysis of Elon's Twitter Takeover Using VADER
 
 Information travels extremely quickly nowadays and one of the easiest places to see that happen is the social network service Twitter. Twitter allows people from all over the globe to communicate in a way that was never seen before, called tweets. For the past decade and a half, Twitter has been a hotbed of activity including but not limited to social justice, journalism, connecting with friends and family, and rapid reporting of disasters both natural and otherwise. Within the past two months, Twitter has very publicly been turned upside down by its new CEO with the removal of 2FA, high employee turnover, scaring advertisers off by releasing controversial statements, and reinstating previously banned figures. A tumultuous event such as this is ripe for analysis as anyone and everyone has opinions on the subject.
+
 Despite Twitter natural language processing analyses being fairly easy to find online, it is no simple feat. Using a computer to analyze human language is quite complex because computers do not think the same way humans do and teaching one how to analyze the context behind certain words or phrases has been the subject of research for decades. In addition, analyzing text from social media is often much more complicated due to how different people express themselves. Our goal is to analyze the English language reactions on Twitter to Elon Musk’s recent ascension to CEO by focusing on tweets with specific hashtags relating to his takeover.
 
 
